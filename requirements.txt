@@ -1,0 +1,8 @@
+wheel
+tensorflow
+keras
+werkzeug
+pillow
+opencv-python
+numpy
+pandas
